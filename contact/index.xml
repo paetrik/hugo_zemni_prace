@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Zemní práce Baďura</title>
-    <link>/contact/</link>
+    <link>https://paetrik.github.io/hugo_zemni_prace/contact/</link>
     <description>Recent content in Contact on Zemní práce Baďura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate><atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate><atom:link href="https://paetrik.github.io/hugo_zemni_prace/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
