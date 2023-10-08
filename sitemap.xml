@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://paetrik.github.io/hugo_zemni_prace/services/autodoprava/</loc>
+    <loc>https://paetrik.github.io/hugo_zemni_prace/sluzby/autodoprava/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>https://paetrik.github.io/hugo_zemni_prace/work/fall-plaza/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://paetrik.github.io/hugo_zemni_prace/services/pronajem-plosin/</loc>
+    <loc>https://paetrik.github.io/hugo_zemni_prace/sluzby/pronajem-plosin/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://paetrik.github.io/hugo_zemni_prace/services/zemni-prace/</loc>
+    <loc>https://paetrik.github.io/hugo_zemni_prace/sluzby/zemni-prace/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>https://paetrik.github.io/hugo_zemni_prace/work/modern-hospital/</loc>
@@ -35,7 +35,7 @@
     <loc>https://paetrik.github.io/hugo_zemni_prace/</loc>
     <lastmod>2018-02-12T15:37:57+07:00</lastmod>
   </url><url>
-    <loc>https://paetrik.github.io/hugo_zemni_prace/services/</loc>
+    <loc>https://paetrik.github.io/hugo_zemni_prace/sluzby/</loc>
     <lastmod>2018-02-10T11:52:18+07:00</lastmod>
   </url><url>
     <loc>https://paetrik.github.io/hugo_zemni_prace/work/</loc>
