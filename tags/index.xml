@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Zemní práce Baďura</title>
-    <link>https://paetrik.github.io/hugo_zemni_prace/tags/</link>
+    <link>http://tojevpohode.cz/tags/</link>
     <description>Recent content in Tags on Zemní práce Baďura</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://paetrik.github.io/hugo_zemni_prace/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://tojevpohode.cz/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
